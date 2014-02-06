@@ -1,0 +1,368 @@
+/* Page */
+#content-wrapper {
+	background-color:#ffffff;
+
+}
+
+/*Hide H1 tags on landing page content types */
+body.page-type-department-option-landing-page h1,
+body.front h1,
+body.front .article,
+body.page-type-degree-option.section-degrees h1,
+body.page-type-landing-page h1,
+body.page-type-center-landing-page h1,
+body.page-type-facility h1,
+body.page-type-landing-page .article-landing-page,
+body.page-user #page-title,
+body.page-type-article h1 {
+  display:none;
+}
+
+
+
+
+
+
+/* Header */
+#page > header {}
+#logo {
+  margin: 0px;
+}
+#page > header > hgroup {
+  margin: 0 10px;
+}
+#site-name {}
+#site-name a    {}
+#site-name a:visited {}
+#site-name a:hover   {}
+#site-name a:focus   {}
+#site-name a:active  {}
+#site-slogan {}
+
+
+
+/* Page title */
+h1#page-title {
+	text-transform:uppercase;
+}
+
+/* Header & footer Styles */
+#leaderboard-wrapper {
+	background-color:#000000;
+}
+#leaderboard-wrapper-dev {
+	background-color:#000000;
+}
+
+
+/* 3rd column of regions now in footer!! */
+.kitchen-sink, .region-footer {
+	padding-top:20px;
+	text-align:left;
+	font-size:.8em;
+}
+
+.kitchen-sink, .kitchen-sink a, .kitchen-sink a:visited, .kitchen-sink a:link{
+	color:#666;
+	text-decoration:none !important;
+	}
+	
+.kitchen-sink a:hover{
+	color:#000 !important;
+	text-decoration:none !important;
+	}	
+	
+.kitchen-sink h2{
+	color:#555;
+}
+
+.kitchen-sink h2 a:link, .kitchen-sink h2 a:visited, .kitchen-sink h2 a:hover {
+	color:#555;
+}
+
+
+.kitchen-sink a:hover {color:#585B61}
+
+#footer-wrapper {
+	background-color:#f5f5f5;
+	border-top:1px solid #eee;
+	background-repeat:no-repeat;
+	background-position: center 22px;
+	}
+
+
+#main-content {
+	margin-top:20px;
+	padding-bottom:20px;
+	
+}
+
+
+#header-wrapper, #shadow2 {
+  background-color: #f5f5f5;
+  background-image:none; 
+}
+
+#header-wrapper {
+  height:auto;
+  overflow:hidden;
+  border-bottom:1px solid #eee;
+}
+
+#header-wrapper p, #header-wrapper #block-views-site-section-title-block-2 a {
+	color:#666;
+}
+
+/*hide header wrapper on first level pages where it looks funny: diversity, alumni and friends, academic affairs, etc.*/
+.page-node-3898 #header-wrapper,
+.page-node-1529 #header-wrapper,
+.page-node-2041 #header-wrapper,
+.page-node-13 #header-wrapper,
+.page-node-679 #header-wrapper,
+.page-node-708 #header-wrapper,
+.page-node-782 #header-wrapper,
+.page-node-1533 #header-wrapper,
+.page-node-339 #header-wrapper,
+.page-node-340 #header-wrapper,
+.page-node-1312 #header-wrapper,
+.page-node-739 #header-wrapper {
+	display:none;
+}
+
+
+h1 {
+  color:#555;}
+  
+nav ul.menu li a:hover, nav ul.menu li a:focus, nav ul.menu li a:active, nav ul.menu li.active-trail a, #nav-wrapper  {
+  border-color:#f4d073;}
+
+#shadow2 {
+    height:8px;
+	display:none;
+}
+
+
+
+body {
+	/*background-color:#405375;*/
+	
+}
+
+
+.logo {
+    margin:7px 0px 7px 0px;
+}
+#leaderboard-logo{
+    float:left;
+    width:164px;
+    line-height: 0;
+}
+
+
+/* Regions */
+.region-leaderboard {
+    float:left;
+    line-height:0px;
+}
+
+
+.region-leaderboardtopmenu ul,
+.region-leaderboardtopmenu li,
+.region-leaderboardtopmenu a {
+   margin:5px 0px 7px 10px;
+   display:inline;
+   
+}
+
+.region-leaderboardtopmenu{
+    float:right;
+}
+.region-leaderboardsearchmenu{
+    float:right;
+}
+.region-leaderboardbottommenu{
+	padding-top:5px;
+    clear:right;
+    float:right;
+}
+.region-header {height:auto;}
+.region-secondary-content {}
+.region-highlighted {}
+.region-content-aside {}
+.region-tertiary-content {}
+.region-footer {}
+
+/* Sidebars */
+.sidebar {}
+.region-sidebar-first {}
+.region-sidebar-second {
+	margin-top:20px;
+	
+	}
+
+/* Footer - the main page footer only */
+#page > footer {}
+
+/* Feed icons */
+#feed-icons {}
+#feed-icons .feed-icon {}
+#feed-icons .feed-icon img {}
+#feed-icons a.feed-icon {}
+
+/* Search results list. */
+.search-results {}
+.search-results .search-result {}
+.search-results .title {}
+.search-results .search-snippet-info {}
+.search-results p {}
+.search-results .search-snippet {}
+.search-results .search-info {}
+
+span.search-info-type {}
+span.search-info-user {}
+span.search-info-date {}
+span.search-info-comment {}
+span.search-info-upload  {}
+
+/* Aggregator */
+.feed-item {}
+.feed-item header {}
+.feed-item-title {}
+.feed-item-meta {}
+.feed-item .content {}
+.feed-item footer {}
+.feed-source {}
+.feed-description {}
+
+/* Maintenance page */
+.maintenance-page #skip-link {
+  position: absolute;
+  top: -99em;
+}
+.maintenance-page footer {
+  margin: 10px 0 0;
+}
+.maintenance-page footer a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+/* Prevent overflowing content */
+header[role=banner],
+.content-inner,
+.nav,
+.region-sidebar-first,
+.region-sidebar-second,
+.region-secondary-content,
+.region-tertiary-content,
+.region-footer {
+  overflow: visible;
+  word-wrap: break-word;
+}
+
+/***********************************************************/
+/***********************************************************/
+/* ADMINISTRATION STYLING - hide fields for node add*/
+/***********************************************************/
+/***********************************************************/
+
+
+/* Hide Edit button on Newsroom for Authenticated user */
+.page-node-679.role-authenticated-user #tasks {
+	display:none;
+}
+
+/* Show Edit button on Newsroom for Authenticated user */
+.page-node-679.role-Website-Hero #tasks {
+	display:inherit !important;
+}
+
+/* Hide fields on Issue content type for Authenticated user */
+.page-node-1319.role-authenticated-user #content h2,
+.page-node-1319.role-authenticated-user #edit-workbench-access,
+.page-node-1319.role-authenticated-user #edit-field-status,
+.page-node-1319.role-authenticated-user #edit-field-priority,
+.page-node-1319.role-authenticated-user .vertical-tabs {
+	display:none;
+}
+
+/* Hide text format settings on comments on Issue content type */
+.page-type-issue .filter-wrapper {
+	display:none;	
+}
+
+/* Show fields on Issue content type for Website Hero */
+.page-node-1319.role-Website-Hero #edit-field-status,
+.page-node-1319.role-Website-Hero #edit-field-priority {
+	display:inherit !important;
+}
+
+#comments {
+	padding:5px;
+}
+
+/* Hide fields for report news add form */
+.page-node-736 #content .block-title,
+.page-node-736 .field-name-field-tags,
+.page-node-736 .filter-wrapper,
+.page-node-736 .field-name-field-slider-image,
+.page-node-736 .field-name-field-slider-image-no-link,
+.page-node-736 .field-name-field-category-sitewide-news,
+.page-node-736 .field-name-field-department-reference,
+.page-node-736 .field-name-field-location-reference,
+.page-node-736 .field-name-field-category-center,
+.page-node-736 .field-name-field-category-other,
+.page-node-736 .field-name-field-user,
+.page-node-736 .vertical-tabs {
+	display:none;
+
+}
+
+/* Style add new comment button on issue queue */
+.page-type-issue nav.clearfix {
+	display: none;
+}
+
+.page-type-issue nav.clearfix a {
+	color:#FFF;
+}
+
+/* Style comments display */
+
+#comments {
+	float:left;
+	width:100%;
+}
+
+#comments .user-picture {
+	float:left;
+	width:18%;
+	padding:10px;
+}
+
+#comments .user-picture img {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+#comments .content {
+	float:left;
+	width:75%;
+	padding-top:10px;
+}
+
+#comments .submitted {
+	font-size:.8em;
+}
+
+#comments ul.links {
+	clear:both;
+	margin-right:20px;
+}
+
+/*Hides create new child links for non-admin users who have access to view children pages*/
+.newchild {display:none;}
+.role-Website-Hero .newchild, 
+.role-Super-Editor .newchild {display:inherit;}
+

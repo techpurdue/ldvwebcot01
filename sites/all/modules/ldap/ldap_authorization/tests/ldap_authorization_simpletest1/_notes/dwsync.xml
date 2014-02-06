@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="fake_ldap_server_data.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.features.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.info" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.ldap_servers.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.module" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.strongarm.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="TEMPLATE.test" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129793341800000000" remote="130308309420000000" Dst="1" />
+<file name="fake_ldap_server_data.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.features.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.ldap_servers.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="ldap_authorization_simpletest1.strongarm.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+<file name="TEMPLATE.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248180000000" remote="130264248180000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="comment.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="data.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="data.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="entity.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="entity.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="events.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="node.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="node.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="path.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="path.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="php.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="php.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="rules_core.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="rules_core.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="system.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="system.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="taxonomy.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="user.eval.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="user.rules.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309630000000" Dst="1" />
+<file name="comment.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="data.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="data.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="entity.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="entity.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="events.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="node.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="node.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248840000000" remote="130264248840000000" Dst="1" />
+<file name="path.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="path.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="php.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="php.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="rules_core.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="rules_core.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="system.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="system.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="taxonomy.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="user.eval.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+<file name="user.rules.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248850000000" remote="130264248850000000" Dst="1" />
+</dwsync>

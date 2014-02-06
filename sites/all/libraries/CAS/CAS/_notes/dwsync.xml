@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthenticationException.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="Autoload.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="Client.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="CookieJar.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="Exception.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="GracefullTerminationException.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="OutOfSequenceException.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308280000000" Dst="1" />
+<file name="ProxiedService.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="ProxyChain.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="ProxyTicketException.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="AuthenticationException.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244880000000" remote="130264244880000000" Dst="1" />
+<file name="Autoload.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244880000000" remote="130264244880000000" Dst="1" />
+<file name="Client.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244880000000" remote="130264244880000000" Dst="1" />
+<file name="CookieJar.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244880000000" remote="130264244880000000" Dst="1" />
+<file name="Exception.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244880000000" remote="130264244880000000" Dst="1" />
+<file name="GracefullTerminationException.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244890000000" remote="130264244890000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244890000000" remote="130264244890000000" Dst="1" />
+<file name="OutOfSequenceException.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244890000000" remote="130264244890000000" Dst="1" />
+<file name="ProxiedService.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244900000000" remote="130264244900000000" Dst="1" />
+<file name="ProxyChain.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244900000000" remote="130264244900000000" Dst="1" />
+<file name="ProxyTicketException.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244900000000" remote="130264244900000000" Dst="1" />
+</dwsync>

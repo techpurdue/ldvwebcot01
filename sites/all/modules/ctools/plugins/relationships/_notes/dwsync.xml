@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="book_parent.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="entity_from_field.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="entity_from_schema.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="node_edit_form_from_node.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="terms_from_node.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="term_from_node.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="term_parent.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="user_category_edit_form_from_user.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="user_from_node.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130150208660000000" remote="130308309240000000" Dst="1" />
+<file name="book_parent.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247610000000" remote="130264247610000000" Dst="1" />
+<file name="entity_from_field.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247610000000" remote="130264247610000000" Dst="1" />
+<file name="entity_from_schema.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247610000000" remote="130264247610000000" Dst="1" />
+<file name="node_edit_form_from_node.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247610000000" remote="130264247610000000" Dst="1" />
+<file name="term_from_node.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247620000000" remote="130264247620000000" Dst="1" />
+<file name="term_parent.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247620000000" remote="130264247620000000" Dst="1" />
+<file name="terms_from_node.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247610000000" remote="130264247610000000" Dst="1" />
+<file name="user_category_edit_form_from_user.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247620000000" remote="130264247620000000" Dst="1" />
+<file name="user_from_node.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264247620000000" remote="130264247620000000" Dst="1" />
+</dwsync>

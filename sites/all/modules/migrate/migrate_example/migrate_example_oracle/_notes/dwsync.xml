@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="migrate_example_oracle.features.field.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129985104920000000" remote="130308309480000000" Dst="1" />
+<file name="migrate_example_oracle.features.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129985104920000000" remote="130308309480000000" Dst="1" />
+<file name="migrate_example_oracle.info" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129985104920000000" remote="130308309480000000" Dst="1" />
+<file name="migrate_example_oracle.install" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129985104920000000" remote="130308309480000000" Dst="1" />
+<file name="migrate_example_oracle.migrate.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129985104920000000" remote="130308309480000000" Dst="1" />
+<file name="migrate_example_oracle.module" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129985104920000000" remote="130308309480000000" Dst="1" />
+<file name="migrate_example_oracle.features.field.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248380000000" remote="130264248380000000" Dst="1" />
+<file name="migrate_example_oracle.features.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248380000000" remote="130264248380000000" Dst="1" />
+<file name="migrate_example_oracle.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248380000000" remote="130264248380000000" Dst="1" />
+<file name="migrate_example_oracle.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248380000000" remote="130264248380000000" Dst="1" />
+<file name="migrate_example_oracle.migrate.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248380000000" remote="130264248380000000" Dst="1" />
+<file name="migrate_example_oracle.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264248390000000" remote="130264248390000000" Dst="1" />
+</dwsync>

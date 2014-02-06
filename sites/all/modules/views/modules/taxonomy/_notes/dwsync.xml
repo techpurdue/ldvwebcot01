@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_taxonomy.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid_depth.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid_depth_modifier.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_vocabulary_machine_name.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_vocabulary_vid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_taxonomy.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_term_link_edit.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_term_node_tid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_term_node_tid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_term_node_tid_depth.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_vocabulary_machine_name.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_vocabulary_vid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_relationship_node_term_data.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_plugin_argument_default_taxonomy_tid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_plugin_argument_validate_taxonomy_term.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_taxonomy.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid_depth.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_argument_term_node_tid_depth_modifier.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_argument_vocabulary_machine_name.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_argument_vocabulary_vid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_field_taxonomy.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_field_term_link_edit.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_field_term_node_tid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_filter_term_node_tid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_filter_term_node_tid_depth.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249310000000" remote="130264249310000000" Dst="1" />
+<file name="views_handler_filter_vocabulary_machine_name.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249320000000" remote="130264249320000000" Dst="1" />
+<file name="views_handler_filter_vocabulary_vid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249320000000" remote="130264249320000000" Dst="1" />
+<file name="views_handler_relationship_node_term_data.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249320000000" remote="130264249320000000" Dst="1" />
+<file name="views_plugin_argument_default_taxonomy_tid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249320000000" remote="130264249320000000" Dst="1" />
+<file name="views_plugin_argument_validate_taxonomy_term.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249320000000" remote="130264249320000000" Dst="1" />
+</dwsync>

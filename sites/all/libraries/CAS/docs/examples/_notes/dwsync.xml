@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="config.example.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="create_pgt_storage_db_table.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example.css" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_advanced_saml11.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_custom_urls.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_gateway.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_html.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_lang.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_logout.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_pgt_storage_db.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_pgt_storage_file.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_proxy_GET.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_proxy_POST.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_proxy_rebroadcast.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_proxy_serviceWeb.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_proxy_serviceWeb_chaining.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_service.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_service_POST.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_service_that_proxies.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="example_simple.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="script_info.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="129761477760000000" remote="130308308290000000" Dst="1" />
+<file name="config.example.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="create_pgt_storage_db_table.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_advanced_saml11.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_custom_urls.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_gateway.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_html.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_lang.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_logout.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_pgt_storage_db.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_pgt_storage_file.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_proxy_GET.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_proxy_POST.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_proxy_rebroadcast.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_proxy_serviceWeb.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_proxy_serviceWeb_chaining.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_service.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_service_POST.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_service_that_proxies.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="example_simple.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+<file name="script_info.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264244920000000" remote="130264244920000000" Dst="1" />
+</dwsync>

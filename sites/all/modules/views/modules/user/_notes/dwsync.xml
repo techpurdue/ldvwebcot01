@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="views_handler_argument_users_roles_rid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_user_uid.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_language.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_link.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_link_cancel.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_link_edit.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_mail.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_name.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_permissions.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_picture.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_field_user_roles.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_user_current.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_user_name.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_user_permissions.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_filter_user_roles.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_plugin_argument_default_current_user.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_plugin_argument_default_user.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_plugin_argument_validate_user.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_plugin_row_user_view.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130090256630000000" remote="130313518430000000" Dst="1" />
+<file name="views_handler_argument_user_uid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_argument_users_roles_rid.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_language.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_link.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_link_cancel.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_link_edit.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_mail.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_name.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_permissions.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_picture.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_field_user_roles.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_filter_user_current.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_filter_user_name.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_filter_user_permissions.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_handler_filter_user_roles.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_plugin_argument_default_current_user.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_plugin_argument_default_user.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_plugin_argument_validate_user.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249330000000" remote="130264249330000000" Dst="1" />
+<file name="views_plugin_row_user_view.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130264249340000000" remote="130264249340000000" Dst="1" />
+</dwsync>
