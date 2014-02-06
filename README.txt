@@ -2,11 +2,17 @@
 CONTENTS OF THIS FILE
 ---------------------
 
+ * About the ldvwebcot01 repo
  * About Drupal
  * Configuration and features
  * Installation profiles
  * Appearance
  * Developing for Drupal
+
+ABOUT THE LDVWEBCOT01 Repo
+--------------------------
+
+This site is created by the College of Technology and stored on GitHub for version control. Email mbosma@purude.edu for access and more information.
 
 ABOUT DRUPAL
 ------------
