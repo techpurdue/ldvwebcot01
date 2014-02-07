@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="block-admin-display-form.tpl.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.admin.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.api.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.css" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.info" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130313405080000000" Dst="1" />
-<file name="block.install" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.js" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.module" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.test" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block.tpl.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405080000000" Dst="1" />
-<file name="block-admin-display-form.tpl.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.admin.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130314271480000000" Dst="1" />
-<file name="block.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.js" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
-<file name="block.tpl.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271480000000" Dst="1" />
+<file name="block-admin-display-form.tpl.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.admin.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342895300000000" remote="130362764510000000" Dst="1" />
+<file name="block.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.js" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
+<file name="block.tpl.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764510000000" Dst="1" />
 </dwsync>

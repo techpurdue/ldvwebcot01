@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="field.api.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.attach.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.crud.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.default.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.form.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.info" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130313405060000000" Dst="1" />
-<file name="field.info.class.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.info.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.install" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.module" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.multilingual.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405060000000" Dst="1" />
-<file name="field.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.attach.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.crud.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.default.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.form.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130314271490000000" Dst="1" />
-<file name="field.info.class.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.info.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="field.multilingual.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
+<file name="field.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.attach.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.crud.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.default.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.form.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342895300000000" remote="130362764520000000" Dst="1" />
+<file name="field.info.class.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.info.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="field.multilingual.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
 </dwsync>

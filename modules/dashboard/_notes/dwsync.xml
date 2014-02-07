@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="dashboard-rtl.css" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.api.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.css" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.info" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.install" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.js" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.module" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard.test" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405070000000" Dst="1" />
-<file name="dashboard-rtl.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.js" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
-<file name="dashboard.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271490000000" Dst="1" />
+<file name="dashboard-rtl.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342895300000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.js" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
+<file name="dashboard.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764520000000" Dst="1" />
 </dwsync>

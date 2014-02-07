@@ -25,13 +25,7 @@ Drupal.behaviors.overlayParent = {
       // Trigger the hashchange handler once, after the page is loaded, so that
       // permalinks open the overlay.
       .triggerHandler('hashchange.drupal-overlay');
-      
-      // Do not use the overlay on devices with low screen width.
-      // @todo Replace with conditional loading.
-      if(!Drupal.checkWidthBreakpoint()) {
-        return;
-      }
-      
+
     $(document)
       // Instead of binding a click event handler to every link we bind one to
       // the document and only handle events that bubble up. This allows other

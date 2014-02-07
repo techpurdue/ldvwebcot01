@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="filetransfer.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405110000000" Dst="1" />
-<file name="ftp.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405110000000" Dst="1" />
-<file name="local.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405110000000" Dst="1" />
-<file name="ssh.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313405110000000" Dst="1" />
-<file name="filetransfer.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271460000000" Dst="1" />
-<file name="ftp.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271460000000" Dst="1" />
-<file name="local.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271460000000" Dst="1" />
-<file name="ssh.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271460000000" Dst="1" />
+<file name="filetransfer.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764490000000" Dst="1" />
+<file name="ftp.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764490000000" Dst="1" />
+<file name="local.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764490000000" Dst="1" />
+<file name="ssh.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764490000000" Dst="1" />
 </dwsync>

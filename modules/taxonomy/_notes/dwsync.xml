@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="taxonomy-term.tpl.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.admin.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.api.php" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.css" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.info" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.install" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.js" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.module" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.pages.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.test" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy.tokens.inc" server="lpvwebcot01.itap.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130313404990000000" Dst="1" />
-<file name="taxonomy-term.tpl.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.admin.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294568400000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.js" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.pages.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
-<file name="taxonomy.tokens.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130294539590000000" remote="130314271550000000" Dst="1" />
+<file name="taxonomy-term.tpl.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.admin.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.info" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342895300000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.install" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.js" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.module" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.pages.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="taxonomy.tokens.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
 </dwsync>
