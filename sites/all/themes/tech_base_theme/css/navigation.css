@@ -602,7 +602,7 @@ ul.secondary li a.active {
 .om-maximenu .om-maximenu-content {min-width:0px; border:5px solid #eaeaea;}
 .om-maximenu .om-maximenu-content h3 {font-size:1.6em;}
 #om-maximenu-leaderboard-master-menu li.leaf-degrees .om-maximenu-content { position:absolute; width:640px; left:-281px; font-size:.8em; }
-#om-maximenu-leaderboard-master-menu li.leaf-administration .om-maximenu-content { position:absolute; width:320px; left:-98px; font-size:.8em; }
+#om-maximenu-leaderboard-master-menu li.leaf-administration .om-maximenu-content { position:absolute; width:340px; left:-78px; font-size:.8em; }
 #om-maximenu-leaderboard-master-menu li.leaf-statewide-locations .om-maximenu-content { position:absolute; width:150px; left:0px; font-size:.8em; }
 #om-maximenu-leaderboard-master-menu .om-maximenu-content .block { float: left;}
 #om-maximenu-leaderboard-master-menu .om-maximenu-content .last { float: left; }
