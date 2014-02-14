@@ -28,7 +28,7 @@
 <file name="system.tar.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
 <file name="system.test" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
 <file name="system.theme-rtl.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
-<file name="system.theme.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
+<file name="system.theme.css" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130368633130000000" remote="130368633130000000" Dst="1" />
 <file name="system.tokens.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
 <file name="system.updater.inc" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
 <file name="theme.api.php" server="ldvwebcot01.www.purdue.edu//var/www/html/root/cot/" local="130342885960000000" remote="130362764580000000" Dst="1" />
